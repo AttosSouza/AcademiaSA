@@ -1,4 +1,4 @@
-# AcademiaSA
+# Sistema de Academia - JAVA
 
 AcademiaSA é um sistema de academia onde é possivel cadastrar, pesquisar, alterar e remover dados.
 
