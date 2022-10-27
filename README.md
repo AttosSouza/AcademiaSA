@@ -2,7 +2,7 @@
 
 Here we have a gym system that we can create, update, insert and delete students.
 
-also, we can do the access control and see their results in the report.
+also, we can do the access control, search for students and see their results in the report.
 
 #
 
