@@ -1,13 +1,16 @@
-# Gym System - JAVA
+# Sistema de academia - JAVA
 
-Here we have a gym system that we can create, update, insert and delete students.
+Uma aplicação web feita com Java 8+. 
 
-also, we can do the access control, search for students and see their results in the report.
+Um sistema que consegue criar usuários, atualizar os dados dos usuários e deletar os dados dos usuários,
+Realiza também atráves do filtro busca pelo usuário mostrando seus resultados e controle de acesso.
+
+Um sistema 100% responsivo adequando-se a Dispositivos móveis. 
+
 
 #
 
-technologies used in this system:
-
+Tecnologias usadas neste sistema: 
 
 JAVA 8+
 
